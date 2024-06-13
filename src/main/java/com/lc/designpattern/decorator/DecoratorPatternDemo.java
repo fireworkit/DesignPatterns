@@ -1,6 +1,7 @@
 package com.lc.designpattern.decorator;
 
 /**
+ * @description  装饰器模式
  * @author lc
  * @date 2024/6/13
  */
